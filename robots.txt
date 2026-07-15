@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fur.mafrojapurnimatumpa.workers.dev/sitemap.xml
